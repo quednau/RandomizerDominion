@@ -31,7 +31,7 @@ def choose_card(game):
     if game == 1 or 2 or 3:
         cards_in_expansion = 25
     elif game == 4:
-        cards_in_expansion = 25
+        cards_in_expansion = 30
     
     card = random.randint(1, cards_in_expansion)
     while (game, card) in list_of_cards:
