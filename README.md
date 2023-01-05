@@ -2,7 +2,7 @@
 
 The card game *Dominion* requires choosing 10 cards to play with each match. Which allows for a lot of replayability.
 
-What the *Dominion Randomizer* does: It chooses randomly cards from the Dominion base game and a three of its expansions. It informs you when it has output the 10 cards needed to start a match of *Dominion*. And then it expects you to play with this randomly generated combination of cards and will judge you silently if you don't. Note however:
+What the *Dominion Randomizer* does: It randomly chooses cards from the Dominion base game and three of its expansions. It informs you when it has output the 10 cards needed to start a match of *Dominion*. And then it expects you to play with this randomly generated combination of cards and will judge you silently if you don't. Note however:
 
 - This is mostly a coding exercise of mine to solve an everyday problem that came up
 - Actually, I coded this (i.e. the basic version of this) spontaneously when playing Dominion with my kid and we wanted to choose cards randomly, and then I simply fleshed it out for a bit later
